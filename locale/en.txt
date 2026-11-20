@@ -166,4 +166,4 @@ HTMLText_7DB2E382_7065_343F_41C2_951F708170F1.html = <div style="text-align:left
 ### Description
 
 ### Title
-tour.name = MENGEŠ-VIRTUALNI SPREHOD-360
+tour.name = Občina Mengeš – 360° virtualni sprehod
